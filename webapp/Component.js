@@ -7,6 +7,8 @@
 	 *   OData service.
 	 * @version @version@
 	 */
+	 
+	 
 	jQuery.sap.declare("nw.epm.refapps.st.overview.Component");
 
 	jQuery.sap.require("sap.ovp.app.Component");
